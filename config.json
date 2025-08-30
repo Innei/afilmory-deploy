@@ -11,7 +11,8 @@
   },
   "social": {
     "twitter": "@__oQuery",
-    "github": "Innei"
+    "github": "Innei",
+    "rss": true
   },
   "feed": {
     "folo": {

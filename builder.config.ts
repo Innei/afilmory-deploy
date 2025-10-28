@@ -4,6 +4,7 @@ export default defineBuilderConfig(() => ({
   repo: {
     enable: true,
     url: 'https://github.com/cupchino/afilmory-assets',
+    token: process.env.GIT_TOKEN,
   },
   storage: {
     provider: 's3',

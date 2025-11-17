@@ -26,6 +26,6 @@ export default defineBuilderConfig(() => ({
     customDomain: 'https://r2.innei.ren',
     endpoint:
       'https://de7ecb0eaa0a328071255d557a6adb66.r2.cloudflarestorage.com',
-    excludeRegex: /\.afilmory$/,
+    excludeRegex: /^\.afilmory/,
   },
 }))
